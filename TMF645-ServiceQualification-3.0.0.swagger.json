@@ -3,10 +3,10 @@
     "info": {
         "title": "Service Qualification Management", 
         "description": "## TMF API Reference: TMF645 - Service Qualification\n\n### Release : 18.5 - December 2018\n\nService Qualification API is one of Pre-Ordering Management API Family. Service Qualification API goal is to provide service technical eligibility. \n\n### Resource \n- serviceQualification\n\n### Operations\nService Qualification API performs the following operations on the resource :\n- Retrieve an entity or a collection of entities depending on filter criteria\n- Partial update of an entity (including updating rules)\n- Create an entity (including default values and creation rules)\n- Delete an entity (for administration purposes)\n- Manage notification of events", 
-        "version": "4.0.0"
+        "version": "3.0.0"
     }, 
     "host": "serverRoot", 
-    "basePath": "/tmf-api/serviceQualificationManagement/v4/", 
+    "basePath": "/tmf-api/serviceQualificationManagement/v3/", 
     "schemes": [
         "https"
     ], 
