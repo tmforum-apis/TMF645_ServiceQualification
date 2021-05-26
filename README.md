@@ -1,4 +1,4 @@
-# WIP_TMF645_ServiceQualification
+# TMF645_ServiceQualification
 TM Forum Open APIs (Apache 2.0) Service Qualification API
 
 Through this API, any Enterprise is able to access a Service Quality Management application and extract Service Level Specifications and associated Service Level Objectives (SLO) and their thresholds.
