@@ -1,8 +1,8 @@
-# TMF645_ServiceQualification
-TM Forum Open APIs (Apache 2.0) Service Qualification API
+# TMF645 ServiceQualification
 
-Through this API, any Enterprise is able to access a Service Quality Management application and extract Service Level Specifications and associated Service Level Objectives (SLO) and their thresholds.
+TM Forum Open API (Apache 2.0) ServiceQualification API.
 
-To access this API; (the Specification, Postman Collection, Swagger file, Reference Implementation, Conformance Profile, and CTK) go to the OPen API tabel at:
+TM Forum Open API for ServiceQualification.
 
-https://projects.tmforum.org/wiki/display/API/Open+API+Table
+The resources in this repository are a mirror of the official versions, published here for your convenience.
+The authoritative source of information for this API is: https://www.tmforum.org/oda/open-apis/directory/
